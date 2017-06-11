@@ -1,0 +1,10 @@
+{
+  "obj_files": ["res/rodas-dentadas.obj"],
+  "sequence": [
+    ["UserCallback"]
+  ],
+  "fit_objects": [],
+  "module": "aluno_rodas_dentadas",
+  "depth": true,
+  "bounds": [[-5, -5], [5, 5]]
+}
